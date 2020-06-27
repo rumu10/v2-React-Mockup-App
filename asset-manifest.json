@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Mockup-App/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/React-Mockup-App/static/js/main.e19f2936.chunk.js",
+    "main.js.map": "/React-Mockup-App/static/js/main.e19f2936.chunk.js.map",
+    "runtime-main.js": "/React-Mockup-App/static/js/runtime-main.bd98c40d.js",
+    "runtime-main.js.map": "/React-Mockup-App/static/js/runtime-main.bd98c40d.js.map",
+    "static/js/2.3bb02a56.chunk.js": "/React-Mockup-App/static/js/2.3bb02a56.chunk.js",
+    "static/js/2.3bb02a56.chunk.js.map": "/React-Mockup-App/static/js/2.3bb02a56.chunk.js.map",
+    "index.html": "/React-Mockup-App/index.html",
+    "precache-manifest.3ce820165687125e35aa83b8df768f8d.js": "/React-Mockup-App/precache-manifest.3ce820165687125e35aa83b8df768f8d.js",
+    "service-worker.js": "/React-Mockup-App/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/React-Mockup-App/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.3bb02a56.chunk.js.LICENSE.txt": "/React-Mockup-App/static/js/2.3bb02a56.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd98c40d.js",
+    "static/js/2.3bb02a56.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.e19f2936.chunk.js"
+  ]
+}
